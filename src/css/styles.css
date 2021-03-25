@@ -1,0 +1,25 @@
+.done {
+    display: flex;
+    background: rgb(82, 224, 101);
+}
+
+.not-done {
+    background: rgb(230, 230, 72);
+}
+
+::placeholder {
+    color: gray;
+  }
+  
+  .image {
+   
+  }
+  @media (min-resolution: 2dppx) {
+    .image {
+      
+    }
+  }
+
+.error-message-hidden {
+  display: none;
+}
